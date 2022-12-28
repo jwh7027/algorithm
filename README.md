@@ -10,7 +10,7 @@ Search<h3>
 
 ```
 
-Sort<h3>
+Sort
 ```
 
 ```

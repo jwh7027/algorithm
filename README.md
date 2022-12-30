@@ -2,16 +2,11 @@
 
 ### DataStructure
 ```
-
-```
-
-### Search
-```
-
-```
-
-### Sort
-```
 selection sort
+```
+
+### Algorithm
+```
 
 ```
+

@@ -1,12 +1,16 @@
 # 자료구조 및 알고리즘 구현
+### language
+* C 
+* C++
 
-### DataStructure
-```
-selection sort
-```
-
-### Algorithm
+## DataStructure
 ```
 
+```
+
+## Algorithm
+#### Sort
+```
+selection
 ```
 

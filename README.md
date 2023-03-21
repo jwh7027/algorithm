@@ -9,7 +9,7 @@ Recursion
 ```
 
 ## Algorithm
-## Search
+#### Search
 ```
 BreadthFirstSearch
 DepthFirstSearch

@@ -2,12 +2,23 @@
 
 ## DataStructure
 ```
+Stack
+Queue
 Linked List
+Recursion
 ```
 
 ## Algorithm
+## Search
+```
+BreadthFirstSearch
+DepthFirstSearch
+```
 #### Sort
 ```
-selection
+Selection
+Insertion
+Quick
+Counting
 ```
 
